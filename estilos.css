@@ -10,14 +10,14 @@ body{
 }
 
 .casillas{
-    background-color: red;
+    background-color: rgba(0, 0, 0, 0.651);
     border-radius: 20px;
     cursor: pointer;
     border: 3px solid black;
 }
 
 .casillas:hover{
-    background-color: rgba(255, 0, 0, 0.507);
+    background-color: rgba(7, 7, 7, 0.507);
 }
 
 #contenedorGrande{
